@@ -30,7 +30,7 @@
 ```
 ## Скриншотики (я ж читал мануал)
 
-![прошел английский тест] (https://ci3.googleusercontent.com/proxy/J7CXMG8B2UnFLtaeUMPnQe3iaG3m_c5PWlCyovwBOYHcZqmnNhmLujhgkQAG8kvut83sIaRtL1vfxZmw_ZmWadDDQX85p9OGmDw5mDSNJrUp5_osmdRidz8gWA=s0-d-e1-ft#https://cdn.efset.org/efset-media-assets/percentage-scores/badges/84.png)
+![прошел английский тест - ссылка на гугл драйв] (https://drive.google.com/file/d/1RiC25S57VsSJNa6OENQjhjsnGjg5JTP_/view?usp=sharing)  
 
 ```
 ```
