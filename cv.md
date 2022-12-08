@@ -30,7 +30,7 @@
 ```
 ## Скриншотики (я ж читал мануал)
 
-![прошел английский тест - ссылка на гугл драйв](https://drive.google.com/file/d/1RiC25S57VsSJNa6OENQjhjsnGjg5JTP_/view?usp=sharing)  
+![прошел английский тест - ссылка на гугл драйв](https://files.fm/thumb_show.php?i=2rvb8rfrg)  
 
 ```
 ```
