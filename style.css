@@ -1,0 +1,17 @@
+body {
+padding: 0 50%;
+}
+
+
+#main-bg {
+    background-color: black;
+}
+
+
+#first-col {
+    background-color: #585858;
+}
+
+#second-col {
+    background-color: #886A08;
+}
