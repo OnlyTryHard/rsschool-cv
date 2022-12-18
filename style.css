@@ -4,11 +4,20 @@ body {
     height: 100%;
 }
 
+#navigation{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -50px;
+    width: 1200px;
+    height: 100px;
+    background-color: red;
+}
 
 #main-bg {
     margin-top: 2%;
     width: 1200px;
-    height: 1800px;
+    height: 2000px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -25,14 +34,14 @@ body {
 #second-col {
     background-color: #ffffff;
     position: relative;
-    top: -101.3%;
+    top: -101.15%;
     width: 73.33%;
     left: 25.88%;
     height: 100.18%;
     border-left: 9px solid red;
 }
 
-.footer {
+#footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -116,7 +125,7 @@ h1 {
 
 .contacts {
 position: relative;
-top: 35%;
+top: 40%;
 }
 
 .bad-image-row {
@@ -447,4 +456,41 @@ transition:0.3s;
     position: absolute;
     margin-left: 70%;
     margin-top: -10.5%;
+}
+
+.white-red3 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    height: 545px;
+    margin-top: 200px;
+}
+
+.red-dot3 {
+    text-align: center;
+    margin-left: 31%;
+    width: 350px;
+    height: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.eng-level {
+    margin: auto;
+}
+
+.eng-level-img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.eng-level,
+.eng-level-img:hover {
+    width: 500px;
+    height: 500px;
+    transition: 0.3s;
 }
