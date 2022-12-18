@@ -1,4 +1,6 @@
 # rsschool-cv
 Специально для RS SCHOOL stage #0
-https://github.com/OnlyTryHard/rsschool-cv/blob/rsschool-cv-html/cv.md
+<br>
+https://onlytryhard.github.io/rsschool-cv/cv
+<br>
 https://Onlytryhard.github.io/rsschool-cv/
