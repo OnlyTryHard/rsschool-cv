@@ -8,7 +8,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: -50px;
+    margin-bottom: -2%;
     width: 1200px;
     height: 100px;
     background-color: red;
@@ -34,7 +34,7 @@ body {
 #second-col {
     background-color: #ffffff;
     position: relative;
-    top: -100.81%;
+    margin-top: -235.2%;
     width: 73.33%;
     left: 25.88%;
     height: 100.1%;
@@ -46,7 +46,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 1200px;
-    height: 150px;
+    height: 230px;
     background-color: red;
 }
 
@@ -125,7 +125,7 @@ h1 {
 
 .contacts {
 position: relative;
-top: 40%;
+top: 58%;
 }
 
 .bad-image-row {
@@ -526,7 +526,62 @@ transition:0.3s;
 
 .insta,
 .insta-png:hover {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     transition: 0.3s;
+}
+
+.git-hub {
+    margin-left: 46.5%;
+    margin-top: -6%;
+}
+
+.git-hub-png {
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+
+.git-hub,
+.git-hub-png:hover {
+    width: 70px;
+    height: 70px;
+    transition: 0.3s;
+}
+
+.telegram {
+    margin-left: 85%;
+    margin-top: -5.5%;
+}
+
+.telegram-png {
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+
+.telegram,
+.telegram-png:hover {
+    width: 70px;
+    height: 70px;
+    transition: 0.3s;
+}
+
+.rs-logo {
+    margin-left: 35%;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.text {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+    height: 100px;
+    margin-top: -250px;
+    margin-left: 350px;
 }
