@@ -17,7 +17,7 @@ body {
 #main-bg {
     margin-top: 2%;
     width: 1200px;
-    height: 2000px;
+    height: 2800px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -34,10 +34,10 @@ body {
 #second-col {
     background-color: #ffffff;
     position: relative;
-    top: -101.15%;
+    top: -100.81%;
     width: 73.33%;
     left: 25.88%;
-    height: 100.18%;
+    height: 100.1%;
     border-left: 9px solid red;
 }
 
@@ -59,7 +59,7 @@ body {
     overflow: hidden;
     width: 150px;
     height: 150px;
-    animation: flow-border 4s alternate-reverse;
+    animation: flow-border 2s alternate-reverse;
     animation-iteration-count:infinite;
 
 }
@@ -492,5 +492,41 @@ transition:0.3s;
 .eng-level-img:hover {
     width: 500px;
     height: 500px;
+    transition: 0.3s;
+}
+
+.white-red4 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    height: 500px;
+    margin-top: 200px;
+}
+
+.code {
+    box-shadow: 10px 10px 10px 10px black;
+    width: 500px;
+    height: 530px;
+    margin-left: 20%;
+    text-align: left;
+}
+
+
+.insta {
+    margin-left: 130px;
+    padding-top: 20px;
+}
+
+.insta-png {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.insta,
+.insta-png:hover {
+    width: 60px;
+    height: 60px;
     transition: 0.3s;
 }
