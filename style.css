@@ -101,7 +101,7 @@ h1 {
     line-height: 10px;
 }
 
-#heart {
+.heart {
     width: 40px;
     height: 40px;
     position: relative;
@@ -116,7 +116,7 @@ h1 {
     left: 20px;
 }
 
-#cup {
+.cup {
     width: 50px;
     height: 50px;
     position: relative;
@@ -135,7 +135,7 @@ top: 58%;
     left: 10px;
 }
 
-#bad-image {
+.bad-image {
     font-weight: 50;
     line-height: 21px;
     position: relative;
